@@ -3,14 +3,19 @@
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.6.3.
 
 ## Run the application on local system
-Step-1: clone the source code from git hub
+
+Step-1: clone the source code from github
+
 git clone https://github.com/rahiakela/ng-bootsrap4-scss-application
 
 Step-2: Install all dependency
+
 cd  ng-bootsrap4-scss-application
+
 npm install
 
 Step-3: Run the development server
+
 ng serve 
 
 And navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
